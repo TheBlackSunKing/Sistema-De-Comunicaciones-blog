@@ -1,7 +1,7 @@
 ---
 title: 'sistema electrónico de comunicaciones'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
+description: 'Ques es el sistema electrico de comunicaciones y cuales son sus objetivos'
+pubDate: 'Feb 08 2024'
 heroImage: '/blog-placeholder-3.jpg'
 ---
 
