@@ -1,5 +1,5 @@
 ---
-title: 'DIFERENCIA ENTRE AM Y FM'
+title: 'Diferencia entre AM y FM'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Feb 09 2024'
 heroImage: '/blog-placeholder-4.jpg'
