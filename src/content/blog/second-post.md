@@ -1,16 +1,59 @@
 ---
-title: 'Second post'
+title: 'DIFERENCIA ENTRE AM Y FM'
 description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 22 2022'
+pubDate: 'Feb 09 2024'
 heroImage: '/blog-placeholder-4.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+AM (Amplitud Modulada) y FM (Frecuencia Modulada) son dos técnicas de modulación utilizadas en la transmisión de señales de radio. Aquí tienes algunas diferencias clave entre ellas:
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+1. **Modulación:**
+   - **AM:** En AM, la amplitud de la onda portadora se modula de acuerdo con la amplitud de la señal de información.
+   - **FM:** En FM, la frecuencia de la onda portadora se modula de acuerdo con la amplitud de la señal de información.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+2. **Calidad de la Señal:**
+   - **AM:** Suelen ser más susceptibles a interferencias y ruido, lo que puede causar estática y distorsión en la señal.
+   - **FM:** Ofrecen una mejor calidad de audio y son menos susceptibles a interferencias, lo que resulta en una mejor calidad de señal en general.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+3. **Ancho de Banda:**
+   - **AM:** Requiere un ancho de banda más estrecho en comparación con FM.
+   - **FM:** Necesita un ancho de banda más amplio en comparación con AM.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+4. **Alcance y Cobertura:**
+   - **AM:** Tiene un alcance más largo y mejor penetración en edificios y obstáculos, lo que hace que sea preferida para emisoras de onda larga y onda media.
+   - **FM:** Tiene un alcance más limitado y se utiliza comúnmente para emisoras de onda corta y emisoras de radio FM locales.
+
+5. **Aplicaciones:**
+   - **AM:** A menudo se utiliza para transmitir señales de radio AM, incluidas estaciones de noticias y conversación.
+   - **FM:** Se usa comúnmente para transmisiones de música y emisoras de radio FM.
+
+6. **Eficiencia Espectral:**
+   - **AM:** Menos eficiente desde el punto de vista espectral.
+   - **FM:** Más eficiente en términos de uso del espectro radioeléctrico.
+
+En resumen, AM y FM son técnicas de modulación que presentan diferencias en términos de calidad de señal, ancho de banda, alcance y aplicaciones preferidas. La elección entre AM y FM depende de diversos factores, incluyendo el propósito de la transmisión y las condiciones específicas del entorno.
+
+![Alt text](https://i.imgur.com/vlS0GTx.png)
+
+La modulación se hace en un transmisor mediante un circuito llamado modulador. Una
+portadora sobre la que ha actuado una señal de información se llama onda modulada o señal modulada.La demodulación es el proceso inverso a la modulación, y reconvierte a la portadora modulada en la información original (es decir, quita la información de la portadora). La demodulación se hace en un receptor, con un circuito llamado demodulador.
+
+Hay dos razones por las que la modulación es necesaria en las comunicaciones electrónicas:
+1) Es en extremo difícil irradiar señales de baja frecuencia en forma de energía electromagnética, con una antena,
+
+2) ocasionalmente, las señales de la información ocupan la misma banda de frecuencias y si se transmiten al mismo tiempo las señales de dos o más fuentes, interferirán entre sí. Por ejemplo, todas las estaciones comerciales de FM emiten señales de voz y música que ocupan la banda de audiofrecuencias, desde unos 300 Hz hasta 15 kHz. Para evitar
+su interferencia mutua, cada estación convierte a su información a una banda o canal de frecuencia distinto. Se suele usar el término canal para indicar determinada banda de frecuencias asignadaa determinado servicio
+
+ELECTROMAGNETISMO Y FRECUENCIAS
+
+El objetivo de un sistema electrónico de comunicaciones es transferir información entre dos
+o más lugares, cuyo nombre común es estaciones. Esto se logra convirtiendo la información
+original a energía electromagnética, para transmitirla a continuación a una o más estaciones
+receptoras, donde se reconvierte a su forma original. La energía electromagnética se puede
+propagar en forma de voltaje o corriente, a través de un conductor o hilo metálico, o bien en
+forma de ondas de radio emitidas hacia el espacio libre, o como ondas luminosas a través de una fibra óptica. La energía electromagnética se distribuye en un intervalo casi infinito de frecuencias.
+
+La frecuencia no es más que la cantidad de veces que sucede un movimiento periódico,
+como puede ser una onda senoidal de voltaje o de corriente, durante determinado periodo. Cada inversión completa de la onda se llama ciclo. La unidad básica de frecuencia es el hertz (Hz), y un hertz es igual a un ciclo por segundo (1 Hz = 1 cps). En electrónica se acostumbra usar prefijos métricos para representar las grandes frecuencias. Por ejemplo, se usa el kHz (kilohertz) para indicar miles de hertz, y el MHz (megahertz) para indicar millones de hertz.
+
+!(https://i.imgur.com/7a8HsUs.png).
