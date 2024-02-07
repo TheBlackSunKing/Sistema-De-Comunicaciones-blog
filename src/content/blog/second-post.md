@@ -57,3 +57,16 @@ La frecuencia no es más que la cantidad de veces que sucede un movimiento peri�
 como puede ser una onda senoidal de voltaje o de corriente, durante determinado periodo. Cada inversión completa de la onda se llama ciclo. La unidad básica de frecuencia es el hertz (Hz), y un hertz es igual a un ciclo por segundo (1 Hz = 1 cps). En electrónica se acostumbra usar prefijos métricos para representar las grandes frecuencias. Por ejemplo, se usa el kHz (kilohertz) para indicar miles de hertz, y el MHz (megahertz) para indicar millones de hertz.
 
 ![Alt Text](https://i.imgur.com/7a8HsUs.png).
+
+El espectro de frecuencias se subdivide en subsecciones o bandas. Cada banda tiene un
+nombre y sus límites. En los Estados Unidos, las asignaciones de frecuencias para radio propagación en el espacio libre son realizadas por la Comisión Federal de Comunicaciones (FCC).
+Por ejemplo, la banda de emisión comercial en FM tiene asignadas las frecuencias de 88 MHz a 108 MHz. Las frecuencias exactas asignadas a transmisores específicos que funcionan en las diversas clases de servicio se actualizan y alteran en forma constante, para cumplir con las necesidades de comunicaciones en una nación.
+
+![Alt Text](https://i.imgur.com/arkV7aq.png).
+
+Cuando se manejan ondas de radio se acostumbra usar unidades de longitud de onda,
+y no de frecuencia. La longitud de onda es la distancia que ocupa en el espacio un ciclo de
+una onda electromagnética, es decir, la distancia entre los puntos correspondientes en una
+onda repetitiva. La longitud de onda es inversamente proporcional a la frecuencia de la onda,y directamente proporcional a su velocidad de propagación
+
+![Alt Text](https://i.imgur.com/tVBgbAZ.png).
