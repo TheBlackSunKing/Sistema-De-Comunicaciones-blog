@@ -13,3 +13,4 @@ Usó la inducción electromagnética para transferir información en forma de pu
 Guglielmo Marconi transmitió por primera vez señales de radio, sin hilos, a través de la
 atmósfera terrestre, en 1894, y Lee DeForest inventó en 1908 el triodo, o válvula al vacío, que permitió contar con el primer método práctico para amplificar las señales eléctricas. La radio comercial comenzó en 1920, cuando las estaciones de radio comenzaron a emitir señales de amplitud modulada (AM), y en 1933 el mayor Edwin Howard Armstrong inventó la modulación de frecuencia (FM). La emisión comercial en FM comenzó en 1936.
 
+![Alt text](https://i.imgur.com/2req029.png)
