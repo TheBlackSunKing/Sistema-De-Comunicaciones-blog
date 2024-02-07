@@ -56,4 +56,4 @@ forma de ondas de radio emitidas hacia el espacio libre, o como ondas luminosas 
 La frecuencia no es más que la cantidad de veces que sucede un movimiento periódico,
 como puede ser una onda senoidal de voltaje o de corriente, durante determinado periodo. Cada inversión completa de la onda se llama ciclo. La unidad básica de frecuencia es el hertz (Hz), y un hertz es igual a un ciclo por segundo (1 Hz = 1 cps). En electrónica se acostumbra usar prefijos métricos para representar las grandes frecuencias. Por ejemplo, se usa el kHz (kilohertz) para indicar miles de hertz, y el MHz (megahertz) para indicar millones de hertz.
 
-!(https://i.imgur.com/7a8HsUs.png).
+![Alt Text](https://i.imgur.com/7a8HsUs.png).
