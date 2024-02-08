@@ -2,7 +2,7 @@
 title: 'sistema electrónico de comunicaciones'
 description: 'Ques es el sistema electrico de comunicaciones y cuales son sus objetivos'
 pubDate: 'Feb 08 2024'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/imagen_2024-02-08_010641519.png'
 ---
 
 El objetivo fundamental de un sistema electrónico de comunicaciones, es transferir información de un lugar a otro. Por consiguiente, se puede decir que las comunicaciones electrónicas son la transmisión, recepción y procesamiento de información entre dos o más lugares, mediante circuitos electrónicos. La fuente original de información puede estar en forma analógica (continua), como por ejemplo la voz humana o la música, o en forma digital (discreta), como por ejemplo los números codificados binariamente o los códigos alfanuméricos. Sin embargo, todas las formas de información se deben convertir a energía electromagnética antes de ser propagadas a través de un sistema electrónico de comunicaciones.
